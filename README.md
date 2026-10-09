@@ -9,10 +9,10 @@ Jupyter Notebook solutions for the lab assignments of the Regression Analysis co
 
 📂 目录结构
 
-.\\
-├── README.md\\
-├── 回归分析1.ipynb\\
-├── 回归分析2.ipynb\\
-├── 回归分析3.ipynb\\
-├── 回归分析4.ipynb\\
+.\
+├── README.md\
+├── 回归分析1.ipynb\
+├── 回归分析2.ipynb\
+├── 回归分析3.ipynb\
+├── 回归分析4.ipynb\
 └── 回归分析5.ipynb
